@@ -19,13 +19,9 @@
     "#USER",
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/angular2-json-schema-form/-/angular2-json-schema-form-0.6.0-alpha.7.tgz",
-  "_shasum": "7533e81f706eff2ff405414eb1413e2fa79318cf",
-  "_spec": "angular2-json-schema-form",
-  "_where": "/home/administrator/Lately/ng-jsf-bootstrap3-seed",
   "author": {
-    "name": "David Schnell-Davis",
-    "email": "dschnelldavis@gmail.com"
+    "name": "scher200",
+    "email": "scher200@github.com"
   },
   "bugs": {
     "url": "https://github.com/dschnelldavis/angular2-json-schema-form/issues"
@@ -66,7 +62,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dschnelldavis/angular2-json-schema-form.git"
+    "url": "git+https://github.com/scher200/angular2-json-schema-form.git"
   },
   "typings": "./angular2-json-schema-form.d.ts",
   "version": "0.6.0-alpha.7",
