@@ -1,0 +1,73 @@
+{
+  "_from": "angular2-json-schema-form",
+  "_id": "angular2-json-schema-form@0.6.0-alpha.7",
+  "_inBundle": false,
+  "_integrity": "sha512-tqCw5XfiBHxVhp8yPrv6x1Wy+Zb7sSjwFY9ZED+P4nIC6uvCQDcREcKqLirHKxIIbIWNU2ZbFgSRENo7jLPFkA==",
+  "_location": "/angular2-json-schema-form",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "angular2-json-schema-form",
+    "name": "angular2-json-schema-form",
+    "escapedName": "angular2-json-schema-form",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/angular2-json-schema-form/-/angular2-json-schema-form-0.6.0-alpha.7.tgz",
+  "_shasum": "7533e81f706eff2ff405414eb1413e2fa79318cf",
+  "_spec": "angular2-json-schema-form",
+  "_where": "/home/administrator/Lately/ng-jsf-bootstrap3-seed",
+  "author": {
+    "name": "David Schnell-Davis",
+    "email": "dschnelldavis@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/dschnelldavis/angular2-json-schema-form/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "ajv": "^5.4.0",
+    "lodash": "4.x"
+  },
+  "deprecated": false,
+  "description": "Angular JSON Schema Form builder",
+  "es2015": "./angular2-json-schema-form.js",
+  "homepage": "https://github.com/dschnelldavis/angular2-json-schema-form#readme",
+  "keywords": [
+    "Angular",
+    "ng",
+    "Angular4",
+    "Angular 4",
+    "ng4",
+    "Angular5",
+    "Angular 5",
+    "ng5",
+    "JSON Schema",
+    "form",
+    "forms",
+    "form builder"
+  ],
+  "license": "MIT",
+  "main": "./bundles/angular2-json-schema-form.umd.js",
+  "module": "./angular2-json-schema-form.es5.js",
+  "name": "angular2-json-schema-form",
+  "peerDependencies": {
+    "@angular/common": ">=4.0.0",
+    "@angular/core": ">=4.0.0",
+    "@angular/forms": ">=4.0.0",
+    "@angular/platform-browser": ">=4.0.0",
+    "rxjs": ">=5.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dschnelldavis/angular2-json-schema-form.git"
+  },
+  "typings": "./angular2-json-schema-form.d.ts",
+  "version": "0.6.0-alpha.7"
+}
