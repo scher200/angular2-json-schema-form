@@ -38,7 +38,7 @@
   "deprecated": false,
   "description": "Angular JSON Schema Form builder",
   "es2015": "./angular2-json-schema-form.js",
-  "homepage": "https://github.com/dschnelldavis/angular2-json-schema-form#readme",
+  "homepage": "https://github.com/scher200/angular2-json-schema-form#readme",
   "keywords": [
     "Angular",
     "ng",
@@ -69,5 +69,8 @@
     "url": "git+https://github.com/dschnelldavis/angular2-json-schema-form.git"
   },
   "typings": "./angular2-json-schema-form.d.ts",
-  "version": "0.6.0-alpha.7"
+  "version": "0.6.0-alpha.7",
+  "devDependencies": {
+    "@angular/cli": "^1.6.3"
+  }
 }
